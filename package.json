@@ -1,0 +1,1 @@
+{"name":"legaltech-metrics-typescript","private":true,"type":"module","scripts":{"typecheck":"tsc --noEmit","start":"tsx src/legal_metrics_service.ts","test":"tsx test/legal_metrics.test.ts"},"dependencies":{"zod":"^3.23.8"},"devDependencies":{"@types/node":"^22.0.0","tsx":"^4.19.0","typescript":"^5.6.3"}}
